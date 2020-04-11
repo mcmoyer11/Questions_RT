@@ -55,13 +55,13 @@ Template( "q_table.csv", row =>
             .size(500,300)
             .print()
         ,
-        newText( `Irene: "W${row[row.WhichQuestion.replace(row.WhichQuestion+'Quest')]}?"` )
+        newText( `Irene: "W${row[row.WhichQuestion.replace("Question",row.WhichQuestion+'Question')]}?"` )
             .print()
         ,
-        newText(`Sam: "${row[row.WhichAnswer.replace(row.WhichAnswer+'Answer')]}"`)
+        newText(`Sam: "${row[row.WhichAnswer.replace("Answer",row.WhichAnswer+'Answer')]}"`)
             .print()
         ,
-        newText( `Sam: "${row.Matrix} w${row[row.WhichQuestion.replace(row.WhichQuestion+'Quest')]}."` )
+        newText( `Irene: "${row.Matrix} w${row[row.WhichQuestion.replace("Question",row.WhichQuestion+'Question')]}."` )
             .print()
         ,
         newText("<p> Press <strong>F</strong> to <strong>Agree</strong> or <strong>J</strong> to <strong>Disagree</strong><p>")
