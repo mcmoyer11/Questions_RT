@@ -1,513 +1,513 @@
-QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAnswer,MFAnswer,ModQuest,NoModQuest,Group
-1,Mod,MO,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,A
-1,Mod,MO,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,A
-1,Mod,MO,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,B
-1,Mod,MO,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,B
-1,Mod,MO,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,C
-1,Mod,MO,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,C
-1,Mod,MO,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,D
-1,Mod,MO,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,D
-1,Mod,MO,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,E
-1,Mod,MO,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,E
-1,Mod,MO,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,F
-1,Mod,MO,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,F
-1,Mod,MO,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,G
-1,Mod,MO,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,G
-1,Mod,MO,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,H
-1,Mod,MO,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,H
-1,Mod,MO,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,I
-1,Mod,MO,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,I
-1,Mod,MO,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,J
-1,Mod,MO,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,J
-1,Mod,MO,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,K
-1,Mod,MO,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,K
-1,Mod,MO,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,L
-1,Mod,MO,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,L
-1,Mod,MO,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,M
-1,Mod,MO,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,M
-1,Mod,MO,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,N
-1,Mod,MO,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,N
-1,Mod,MO,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,O
-1,Mod,MO,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,O
-1,Mod,MO,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,P
-1,Mod,MO,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,P
-2,Mod,MS,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,A
-2,Mod,MS,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,A
-2,Mod,MS,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,B
-2,Mod,MS,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,B
-2,Mod,MS,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,C
-2,Mod,MS,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,C
-2,Mod,MS,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,D
-2,Mod,MS,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,D
-2,Mod,MS,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,E
-2,Mod,MS,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,E
-2,Mod,MS,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,F
-2,Mod,MS,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,F
-2,Mod,MS,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,G
-2,Mod,MS,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,G
-2,Mod,MS,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,H
-2,Mod,MS,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,H
-2,Mod,MS,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,I
-2,Mod,MS,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,I
-2,Mod,MS,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,J
-2,Mod,MS,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,J
-2,Mod,MS,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,K
-2,Mod,MS,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,K
-2,Mod,MS,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,L
-2,Mod,MS,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,L
-2,Mod,MS,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,M
-2,Mod,MS,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,M
-2,Mod,MS,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,N
-2,Mod,MS,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,N
-2,Mod,MS,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,O
-2,Mod,MS,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,O
-2,Mod,MS,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,P
-2,Mod,MS,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,P
-3,Mod,MA,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,A
-3,Mod,MA,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,A
-3,Mod,MA,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,B
-3,Mod,MA,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,B
-3,Mod,MA,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,C
-3,Mod,MA,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,C
-3,Mod,MA,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,D
-3,Mod,MA,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,D
-3,Mod,MA,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,E
-3,Mod,MA,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,E
-3,Mod,MA,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,F
-3,Mod,MA,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,F
-3,Mod,MA,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,G
-3,Mod,MA,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,G
-3,Mod,MA,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,H
-3,Mod,MA,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,H
-3,Mod,MA,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,I
-3,Mod,MA,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,I
-3,Mod,MA,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,J
-3,Mod,MA,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,J
-3,Mod,MA,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,K
-3,Mod,MA,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,K
-3,Mod,MA,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,L
-3,Mod,MA,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,L
-3,Mod,MA,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,M
-3,Mod,MA,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,M
-3,Mod,MA,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,N
-3,Mod,MA,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,N
-3,Mod,MA,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,O
-3,Mod,MA,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,O
-3,Mod,MA,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,P
-3,Mod,MA,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,P
-4,Mod,MF,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,A
-4,Mod,MF,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,A
-4,Mod,MF,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,B
-4,Mod,MF,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,B
-4,Mod,MF,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,C
-4,Mod,MF,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,C
-4,Mod,MF,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,D
-4,Mod,MF,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,D
-4,Mod,MF,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,E
-4,Mod,MF,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,E
-4,Mod,MF,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,F
-4,Mod,MF,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,F
-4,Mod,MF,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,G
-4,Mod,MF,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,G
-4,Mod,MF,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,H
-4,Mod,MF,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,H
-4,Mod,MF,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,I
-4,Mod,MF,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,I
-4,Mod,MF,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,J
-4,Mod,MF,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,J
-4,Mod,MF,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,K
-4,Mod,MF,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,K
-4,Mod,MF,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,L
-4,Mod,MF,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,L
-4,Mod,MF,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,M
-4,Mod,MF,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,M
-4,Mod,MF,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,N
-4,Mod,MF,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,N
-4,Mod,MF,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,O
-4,Mod,MF,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,O
-4,Mod,MF,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,P
-4,Mod,MF,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,P
-5,Mod,MO,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,A
-5,Mod,MO,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,A
-5,Mod,MO,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,B
-5,Mod,MO,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,B
-5,Mod,MO,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,C
-5,Mod,MO,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,C
-5,Mod,MO,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,D
-5,Mod,MO,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,D
-5,Mod,MO,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,E
-5,Mod,MO,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,E
-5,Mod,MO,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,F
-5,Mod,MO,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,F
-5,Mod,MO,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,G
-5,Mod,MO,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,G
-5,Mod,MO,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,H
-5,Mod,MO,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,H
-5,Mod,MO,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,I
-5,Mod,MO,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,I
-5,Mod,MO,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,J
-5,Mod,MO,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,J
-5,Mod,MO,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,K
-5,Mod,MO,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,K
-5,Mod,MO,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,L
-5,Mod,MO,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,L
-5,Mod,MO,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,M
-5,Mod,MO,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,M
-5,Mod,MO,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,N
-5,Mod,MO,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,N
-5,Mod,MO,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,O
-5,Mod,MO,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,O
-5,Mod,MO,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,P
-5,Mod,MO,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,P
-6,Mod,MS,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,A
-6,Mod,MS,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,A
-6,Mod,MS,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,B
-6,Mod,MS,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,B
-6,Mod,MS,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,C
-6,Mod,MS,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,C
-6,Mod,MS,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,D
-6,Mod,MS,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,D
-6,Mod,MS,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,E
-6,Mod,MS,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,E
-6,Mod,MS,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,F
-6,Mod,MS,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,F
-6,Mod,MS,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,G
-6,Mod,MS,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,G
-6,Mod,MS,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,H
-6,Mod,MS,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,H
-6,Mod,MS,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,I
-6,Mod,MS,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,I
-6,Mod,MS,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,J
-6,Mod,MS,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,J
-6,Mod,MS,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,K
-6,Mod,MS,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,K
-6,Mod,MS,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,L
-6,Mod,MS,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,L
-6,Mod,MS,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,M
-6,Mod,MS,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,M
-6,Mod,MS,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,N
-6,Mod,MS,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,N
-6,Mod,MS,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,O
-6,Mod,MS,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,O
-6,Mod,MS,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,P
-6,Mod,MS,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,P
-7,Mod,MA,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,A
-7,Mod,MA,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,A
-7,Mod,MA,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,B
-7,Mod,MA,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,B
-7,Mod,MA,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,C
-7,Mod,MA,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,C
-7,Mod,MA,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,D
-7,Mod,MA,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,D
-7,Mod,MA,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,E
-7,Mod,MA,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,E
-7,Mod,MA,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,F
-7,Mod,MA,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,F
-7,Mod,MA,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,G
-7,Mod,MA,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,G
-7,Mod,MA,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,H
-7,Mod,MA,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,H
-7,Mod,MA,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,I
-7,Mod,MA,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,I
-7,Mod,MA,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,J
-7,Mod,MA,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,J
-7,Mod,MA,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,K
-7,Mod,MA,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,K
-7,Mod,MA,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,L
-7,Mod,MA,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,L
-7,Mod,MA,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,M
-7,Mod,MA,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,M
-7,Mod,MA,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,N
-7,Mod,MA,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,N
-7,Mod,MA,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,O
-7,Mod,MA,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,O
-7,Mod,MA,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,P
-7,Mod,MA,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,P
-8,Mod,MF,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,A
-8,Mod,MF,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,A
-8,Mod,MF,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,B
-8,Mod,MF,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,B
-8,Mod,MF,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,C
-8,Mod,MF,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,C
-8,Mod,MF,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,D
-8,Mod,MF,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,D
-8,Mod,MF,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,E
-8,Mod,MF,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,E
-8,Mod,MF,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,F
-8,Mod,MF,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,F
-8,Mod,MF,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,G
-8,Mod,MF,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,G
-8,Mod,MF,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,H
-8,Mod,MF,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,H
-8,Mod,MF,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,I
-8,Mod,MF,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,I
-8,Mod,MF,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,J
-8,Mod,MF,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,J
-8,Mod,MF,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,K
-8,Mod,MF,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,K
-8,Mod,MF,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,L
-8,Mod,MF,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,L
-8,Mod,MF,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,M
-8,Mod,MF,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,M
-8,Mod,MF,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,N
-8,Mod,MF,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,N
-8,Mod,MF,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,O
-8,Mod,MF,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,O
-8,Mod,MF,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,P
-8,Mod,MF,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,P
-9,NoMod,MO,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,A
-9,NoMod,MO,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,A
-9,NoMod,MO,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,B
-9,NoMod,MO,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,B
-9,NoMod,MO,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,C
-9,NoMod,MO,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,C
-9,NoMod,MO,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,D
-9,NoMod,MO,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,D
-9,NoMod,MO,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,E
-9,NoMod,MO,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,E
-9,NoMod,MO,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,F
-9,NoMod,MO,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,F
-9,NoMod,MO,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,G
-9,NoMod,MO,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,G
-9,NoMod,MO,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,H
-9,NoMod,MO,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,H
-9,NoMod,MO,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,I
-9,NoMod,MO,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,I
-9,NoMod,MO,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,J
-9,NoMod,MO,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,J
-9,NoMod,MO,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,K
-9,NoMod,MO,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,K
-9,NoMod,MO,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,L
-9,NoMod,MO,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,L
-9,NoMod,MO,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,M
-9,NoMod,MO,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,M
-9,NoMod,MO,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,N
-9,NoMod,MO,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,N
-9,NoMod,MO,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,O
-9,NoMod,MO,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,O
-9,NoMod,MO,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,P
-9,NoMod,MO,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,P
-10,NoMod,MS,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,A
-10,NoMod,MS,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,A
-10,NoMod,MS,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,B
-10,NoMod,MS,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,B
-10,NoMod,MS,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,C
-10,NoMod,MS,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,C
-10,NoMod,MS,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,D
-10,NoMod,MS,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,D
-10,NoMod,MS,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,E
-10,NoMod,MS,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,E
-10,NoMod,MS,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,F
-10,NoMod,MS,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,F
-10,NoMod,MS,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,G
-10,NoMod,MS,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,G
-10,NoMod,MS,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,H
-10,NoMod,MS,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,H
-10,NoMod,MS,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,I
-10,NoMod,MS,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,I
-10,NoMod,MS,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,J
-10,NoMod,MS,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,J
-10,NoMod,MS,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,K
-10,NoMod,MS,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,K
-10,NoMod,MS,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,L
-10,NoMod,MS,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,L
-10,NoMod,MS,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,M
-10,NoMod,MS,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,M
-10,NoMod,MS,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,N
-10,NoMod,MS,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,N
-10,NoMod,MS,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,O
-10,NoMod,MS,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,O
-10,NoMod,MS,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,P
-10,NoMod,MS,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,P
-11,NoMod,MA,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,A
-11,NoMod,MA,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,A
-11,NoMod,MA,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,B
-11,NoMod,MA,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,B
-11,NoMod,MA,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,C
-11,NoMod,MA,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,C
-11,NoMod,MA,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,D
-11,NoMod,MA,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,D
-11,NoMod,MA,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,E
-11,NoMod,MA,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,E
-11,NoMod,MA,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,F
-11,NoMod,MA,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,F
-11,NoMod,MA,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,G
-11,NoMod,MA,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,G
-11,NoMod,MA,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,H
-11,NoMod,MA,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,H
-11,NoMod,MA,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,I
-11,NoMod,MA,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,I
-11,NoMod,MA,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,J
-11,NoMod,MA,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,J
-11,NoMod,MA,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,K
-11,NoMod,MA,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,K
-11,NoMod,MA,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,L
-11,NoMod,MA,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,L
-11,NoMod,MA,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,M
-11,NoMod,MA,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,M
-11,NoMod,MA,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,N
-11,NoMod,MA,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,N
-11,NoMod,MA,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,O
-11,NoMod,MA,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,O
-11,NoMod,MA,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,P
-11,NoMod,MA,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,P
-12,NoMod,MF,know,Irene knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,A
-12,NoMod,MF,know,Irene knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,A
-12,NoMod,MF,know,Irene knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,B
-12,NoMod,MF,know,Irene knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,B
-12,NoMod,MF,know,Irene knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,C
-12,NoMod,MF,know,Irene knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,C
-12,NoMod,MF,know,Irene knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,D
-12,NoMod,MF,know,Irene knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,D
-12,NoMod,MF,know,Irene knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,E
-12,NoMod,MF,know,Irene knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,E
-12,NoMod,MF,know,Irene knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,F
-12,NoMod,MF,know,Irene knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,F
-12,NoMod,MF,know,Irene knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,G
-12,NoMod,MF,know,Irene knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,G
-12,NoMod,MF,know,Irene knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,H
-12,NoMod,MF,know,Irene knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,H
-12,NoMod,MF,know,Irene knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,I
-12,NoMod,MF,know,Irene knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,I
-12,NoMod,MF,know,Irene knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,J
-12,NoMod,MF,know,Irene knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,J
-12,NoMod,MF,know,Irene knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,K
-12,NoMod,MF,know,Irene knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,K
-12,NoMod,MF,know,Irene knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,L
-12,NoMod,MF,know,Irene knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,L
-12,NoMod,MF,know,Irene knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,M
-12,NoMod,MF,know,Irene knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,M
-12,NoMod,MF,know,Irene knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,N
-12,NoMod,MF,know,Irene knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,N
-12,NoMod,MF,know,Irene knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,O
-12,NoMod,MF,know,Irene knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,O
-12,NoMod,MF,know,Irene knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,P
-12,NoMod,MF,know,Irene knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,P
-13,NoMod,MO,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,A
-13,NoMod,MO,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,A
-13,NoMod,MO,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,B
-13,NoMod,MO,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,B
-13,NoMod,MO,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,C
-13,NoMod,MO,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,C
-13,NoMod,MO,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,D
-13,NoMod,MO,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,D
-13,NoMod,MO,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,E
-13,NoMod,MO,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,E
-13,NoMod,MO,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,F
-13,NoMod,MO,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,F
-13,NoMod,MO,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,G
-13,NoMod,MO,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,G
-13,NoMod,MO,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,H
-13,NoMod,MO,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,H
-13,NoMod,MO,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,I
-13,NoMod,MO,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,I
-13,NoMod,MO,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,J
-13,NoMod,MO,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,J
-13,NoMod,MO,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,K
-13,NoMod,MO,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,K
-13,NoMod,MO,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,L
-13,NoMod,MO,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,L
-13,NoMod,MO,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,M
-13,NoMod,MO,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,M
-13,NoMod,MO,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,N
-13,NoMod,MO,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,N
-13,NoMod,MO,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,O
-13,NoMod,MO,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,O
-13,NoMod,MO,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,P
-13,NoMod,MO,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,P
-14,NoMod,MS,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,A
-14,NoMod,MS,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,A
-14,NoMod,MS,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,B
-14,NoMod,MS,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,B
-14,NoMod,MS,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,C
-14,NoMod,MS,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,C
-14,NoMod,MS,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,D
-14,NoMod,MS,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,D
-14,NoMod,MS,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,E
-14,NoMod,MS,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,E
-14,NoMod,MS,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,F
-14,NoMod,MS,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,F
-14,NoMod,MS,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,G
-14,NoMod,MS,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,G
-14,NoMod,MS,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,H
-14,NoMod,MS,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,H
-14,NoMod,MS,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,I
-14,NoMod,MS,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,I
-14,NoMod,MS,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,J
-14,NoMod,MS,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,J
-14,NoMod,MS,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,K
-14,NoMod,MS,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,K
-14,NoMod,MS,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,L
-14,NoMod,MS,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,L
-14,NoMod,MS,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,M
-14,NoMod,MS,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,M
-14,NoMod,MS,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,N
-14,NoMod,MS,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,N
-14,NoMod,MS,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,O
-14,NoMod,MS,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,O
-14,NoMod,MS,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,P
-14,NoMod,MS,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,P
-15,NoMod,MA,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,A
-15,NoMod,MA,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,A
-15,NoMod,MA,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,B
-15,NoMod,MA,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,B
-15,NoMod,MA,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,C
-15,NoMod,MA,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,C
-15,NoMod,MA,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,D
-15,NoMod,MA,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,D
-15,NoMod,MA,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,E
-15,NoMod,MA,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,E
-15,NoMod,MA,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,F
-15,NoMod,MA,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,F
-15,NoMod,MA,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,G
-15,NoMod,MA,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,G
-15,NoMod,MA,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,H
-15,NoMod,MA,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,H
-15,NoMod,MA,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,I
-15,NoMod,MA,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,I
-15,NoMod,MA,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,J
-15,NoMod,MA,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,J
-15,NoMod,MA,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,K
-15,NoMod,MA,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,K
-15,NoMod,MA,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,L
-15,NoMod,MA,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,L
-15,NoMod,MA,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,M
-15,NoMod,MA,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,M
-15,NoMod,MA,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,N
-15,NoMod,MA,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,N
-15,NoMod,MA,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,O
-15,NoMod,MA,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,O
-15,NoMod,MA,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,P
-15,NoMod,MA,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,P
-16,NoMod,MF,say,Irene said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,A
-16,NoMod,MF,say,Irene said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,A
-16,NoMod,MF,say,Irene said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,B
-16,NoMod,MF,say,Irene said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,B
-16,NoMod,MF,say,Irene said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,C
-16,NoMod,MF,say,Irene said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,C
-16,NoMod,MF,say,Irene said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,D
-16,NoMod,MF,say,Irene said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,D
-16,NoMod,MF,say,Irene said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,E
-16,NoMod,MF,say,Irene said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,E
-16,NoMod,MF,say,Irene said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,F
-16,NoMod,MF,say,Irene said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,F
-16,NoMod,MF,say,Irene said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,G
-16,NoMod,MF,say,Irene said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,G
-16,NoMod,MF,say,Irene said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,H
-16,NoMod,MF,say,Irene said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,H
-16,NoMod,MF,say,Irene said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,I
-16,NoMod,MF,say,Irene said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,I
-16,NoMod,MF,say,Irene said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,J
-16,NoMod,MF,say,Irene said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,J
-16,NoMod,MF,say,Irene said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,K
-16,NoMod,MF,say,Irene said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,K
-16,NoMod,MF,say,Irene said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,L
-16,NoMod,MF,say,Irene said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,L
-16,NoMod,MF,say,Irene said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,M
-16,NoMod,MF,say,Irene said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,M
-16,NoMod,MF,say,Irene said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,N
-16,NoMod,MF,say,Irene said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,N
-16,NoMod,MF,say,Irene said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,O
-16,NoMod,MF,say,Irene said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,O
-16,NoMod,MF,say,Irene said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,P
-16,NoMod,MF,say,Irene said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,P
+QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAnswer,MFAnswer,ModQuestion,NoModQuestion,Group
+1,Mod,MO,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,A
+1,Mod,MO,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,A
+1,Mod,MO,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,B
+1,Mod,MO,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,B
+1,Mod,MO,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,C
+1,Mod,MO,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,C
+1,Mod,MO,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,D
+1,Mod,MO,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,D
+1,Mod,MO,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,E
+1,Mod,MO,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,E
+1,Mod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,F
+1,Mod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,F
+1,Mod,MO,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,G
+1,Mod,MO,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,G
+1,Mod,MO,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,H
+1,Mod,MO,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,H
+1,Mod,MO,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,I
+1,Mod,MO,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,I
+1,Mod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,J
+1,Mod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,J
+1,Mod,MO,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,K
+1,Mod,MO,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,K
+1,Mod,MO,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,L
+1,Mod,MO,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,L
+1,Mod,MO,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,M
+1,Mod,MO,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,M
+1,Mod,MO,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,N
+1,Mod,MO,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,N
+1,Mod,MO,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,O
+1,Mod,MO,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,O
+1,Mod,MO,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,P
+1,Mod,MO,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,P
+2,Mod,MS,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,A
+2,Mod,MS,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,A
+2,Mod,MS,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,B
+2,Mod,MS,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,B
+2,Mod,MS,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,C
+2,Mod,MS,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,C
+2,Mod,MS,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,D
+2,Mod,MS,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,D
+2,Mod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,E
+2,Mod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,E
+2,Mod,MS,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,F
+2,Mod,MS,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,F
+2,Mod,MS,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,G
+2,Mod,MS,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,G
+2,Mod,MS,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,H
+2,Mod,MS,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,H
+2,Mod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,I
+2,Mod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,I
+2,Mod,MS,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,J
+2,Mod,MS,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,J
+2,Mod,MS,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,K
+2,Mod,MS,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,K
+2,Mod,MS,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,L
+2,Mod,MS,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,L
+2,Mod,MS,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,M
+2,Mod,MS,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,M
+2,Mod,MS,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,N
+2,Mod,MS,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,N
+2,Mod,MS,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,O
+2,Mod,MS,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,O
+2,Mod,MS,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,P
+2,Mod,MS,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,P
+3,Mod,MA,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,A
+3,Mod,MA,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,A
+3,Mod,MA,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,B
+3,Mod,MA,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,B
+3,Mod,MA,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,C
+3,Mod,MA,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,C
+3,Mod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,D
+3,Mod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,D
+3,Mod,MA,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,E
+3,Mod,MA,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,E
+3,Mod,MA,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,F
+3,Mod,MA,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,F
+3,Mod,MA,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,G
+3,Mod,MA,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,G
+3,Mod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,H
+3,Mod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,H
+3,Mod,MA,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,I
+3,Mod,MA,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,I
+3,Mod,MA,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,J
+3,Mod,MA,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,J
+3,Mod,MA,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,K
+3,Mod,MA,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,K
+3,Mod,MA,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,L
+3,Mod,MA,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,L
+3,Mod,MA,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,M
+3,Mod,MA,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,M
+3,Mod,MA,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,N
+3,Mod,MA,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,N
+3,Mod,MA,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,O
+3,Mod,MA,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,O
+3,Mod,MA,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,P
+3,Mod,MA,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,P
+4,Mod,MF,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,A
+4,Mod,MF,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,A
+4,Mod,MF,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,B
+4,Mod,MF,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,B
+4,Mod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,C
+4,Mod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,C
+4,Mod,MF,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,D
+4,Mod,MF,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,D
+4,Mod,MF,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,E
+4,Mod,MF,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,E
+4,Mod,MF,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,F
+4,Mod,MF,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,F
+4,Mod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,G
+4,Mod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,G
+4,Mod,MF,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,H
+4,Mod,MF,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,H
+4,Mod,MF,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,I
+4,Mod,MF,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,I
+4,Mod,MF,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,J
+4,Mod,MF,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,J
+4,Mod,MF,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,K
+4,Mod,MF,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,K
+4,Mod,MF,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,L
+4,Mod,MF,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,L
+4,Mod,MF,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,M
+4,Mod,MF,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,M
+4,Mod,MF,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,N
+4,Mod,MF,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,N
+4,Mod,MF,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,O
+4,Mod,MF,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,O
+4,Mod,MF,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,P
+4,Mod,MF,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,P
+5,Mod,MO,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,A
+5,Mod,MO,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,A
+5,Mod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,B
+5,Mod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,B
+5,Mod,MO,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,C
+5,Mod,MO,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,C
+5,Mod,MO,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,D
+5,Mod,MO,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,D
+5,Mod,MO,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,E
+5,Mod,MO,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,E
+5,Mod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,F
+5,Mod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,F
+5,Mod,MO,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,G
+5,Mod,MO,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,G
+5,Mod,MO,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,H
+5,Mod,MO,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,H
+5,Mod,MO,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,I
+5,Mod,MO,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,I
+5,Mod,MO,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,J
+5,Mod,MO,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,J
+5,Mod,MO,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,K
+5,Mod,MO,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,K
+5,Mod,MO,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,L
+5,Mod,MO,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,L
+5,Mod,MO,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,M
+5,Mod,MO,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,M
+5,Mod,MO,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,N
+5,Mod,MO,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,N
+5,Mod,MO,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,O
+5,Mod,MO,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,O
+5,Mod,MO,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,P
+5,Mod,MO,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,P
+6,Mod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,A
+6,Mod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,A
+6,Mod,MS,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,B
+6,Mod,MS,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,B
+6,Mod,MS,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,C
+6,Mod,MS,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,C
+6,Mod,MS,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,D
+6,Mod,MS,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,D
+6,Mod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,E
+6,Mod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,E
+6,Mod,MS,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,F
+6,Mod,MS,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,F
+6,Mod,MS,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,G
+6,Mod,MS,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,G
+6,Mod,MS,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,H
+6,Mod,MS,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,H
+6,Mod,MS,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,I
+6,Mod,MS,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,I
+6,Mod,MS,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,J
+6,Mod,MS,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,J
+6,Mod,MS,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,K
+6,Mod,MS,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,K
+6,Mod,MS,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,L
+6,Mod,MS,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,L
+6,Mod,MS,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,M
+6,Mod,MS,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,M
+6,Mod,MS,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,N
+6,Mod,MS,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,N
+6,Mod,MS,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,O
+6,Mod,MS,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,O
+6,Mod,MS,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,P
+6,Mod,MS,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,P
+7,Mod,MA,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,A
+7,Mod,MA,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,A
+7,Mod,MA,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,B
+7,Mod,MA,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,B
+7,Mod,MA,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,C
+7,Mod,MA,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,C
+7,Mod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,D
+7,Mod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,D
+7,Mod,MA,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,E
+7,Mod,MA,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,E
+7,Mod,MA,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,F
+7,Mod,MA,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,F
+7,Mod,MA,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,G
+7,Mod,MA,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,G
+7,Mod,MA,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,H
+7,Mod,MA,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,H
+7,Mod,MA,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,I
+7,Mod,MA,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,I
+7,Mod,MA,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,J
+7,Mod,MA,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,J
+7,Mod,MA,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,K
+7,Mod,MA,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,K
+7,Mod,MA,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,L
+7,Mod,MA,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,L
+7,Mod,MA,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,M
+7,Mod,MA,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,M
+7,Mod,MA,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,N
+7,Mod,MA,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,N
+7,Mod,MA,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,O
+7,Mod,MA,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,O
+7,Mod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,P
+7,Mod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,P
+8,Mod,MF,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,A
+8,Mod,MF,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,A
+8,Mod,MF,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,B
+8,Mod,MF,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,B
+8,Mod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,C
+8,Mod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,C
+8,Mod,MF,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,D
+8,Mod,MF,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,D
+8,Mod,MF,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,E
+8,Mod,MF,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,E
+8,Mod,MF,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,F
+8,Mod,MF,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,F
+8,Mod,MF,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,G
+8,Mod,MF,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,G
+8,Mod,MF,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,H
+8,Mod,MF,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,H
+8,Mod,MF,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,I
+8,Mod,MF,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,I
+8,Mod,MF,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,J
+8,Mod,MF,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,J
+8,Mod,MF,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,K
+8,Mod,MF,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,K
+8,Mod,MF,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,L
+8,Mod,MF,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,L
+8,Mod,MF,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,M
+8,Mod,MF,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,M
+8,Mod,MF,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,N
+8,Mod,MF,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,N
+8,Mod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,O
+8,Mod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,O
+8,Mod,MF,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,P
+8,Mod,MF,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,P
+9,NoMod,MO,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,A
+9,NoMod,MO,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,A
+9,NoMod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,B
+9,NoMod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,B
+9,NoMod,MO,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,C
+9,NoMod,MO,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,C
+9,NoMod,MO,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,D
+9,NoMod,MO,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,D
+9,NoMod,MO,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,E
+9,NoMod,MO,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,E
+9,NoMod,MO,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,F
+9,NoMod,MO,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,F
+9,NoMod,MO,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,G
+9,NoMod,MO,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,G
+9,NoMod,MO,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,H
+9,NoMod,MO,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,H
+9,NoMod,MO,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,I
+9,NoMod,MO,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,I
+9,NoMod,MO,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,J
+9,NoMod,MO,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,J
+9,NoMod,MO,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,K
+9,NoMod,MO,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,K
+9,NoMod,MO,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,L
+9,NoMod,MO,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,L
+9,NoMod,MO,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,M
+9,NoMod,MO,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,M
+9,NoMod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,N
+9,NoMod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,N
+9,NoMod,MO,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,O
+9,NoMod,MO,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,O
+9,NoMod,MO,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,P
+9,NoMod,MO,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,P
+10,NoMod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,A
+10,NoMod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,A
+10,NoMod,MS,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,B
+10,NoMod,MS,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,B
+10,NoMod,MS,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,C
+10,NoMod,MS,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,C
+10,NoMod,MS,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,D
+10,NoMod,MS,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,D
+10,NoMod,MS,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,E
+10,NoMod,MS,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,E
+10,NoMod,MS,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,F
+10,NoMod,MS,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,F
+10,NoMod,MS,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,G
+10,NoMod,MS,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,G
+10,NoMod,MS,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,H
+10,NoMod,MS,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,H
+10,NoMod,MS,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,I
+10,NoMod,MS,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,I
+10,NoMod,MS,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,J
+10,NoMod,MS,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,J
+10,NoMod,MS,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,K
+10,NoMod,MS,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,K
+10,NoMod,MS,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,L
+10,NoMod,MS,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,L
+10,NoMod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,M
+10,NoMod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,M
+10,NoMod,MS,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,N
+10,NoMod,MS,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,N
+10,NoMod,MS,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,O
+10,NoMod,MS,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,O
+10,NoMod,MS,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,P
+10,NoMod,MS,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,P
+11,NoMod,MA,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,A
+11,NoMod,MA,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,A
+11,NoMod,MA,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,B
+11,NoMod,MA,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,B
+11,NoMod,MA,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,C
+11,NoMod,MA,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,C
+11,NoMod,MA,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,D
+11,NoMod,MA,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,D
+11,NoMod,MA,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,E
+11,NoMod,MA,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,E
+11,NoMod,MA,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,F
+11,NoMod,MA,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,F
+11,NoMod,MA,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,G
+11,NoMod,MA,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,G
+11,NoMod,MA,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,H
+11,NoMod,MA,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,H
+11,NoMod,MA,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,I
+11,NoMod,MA,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,I
+11,NoMod,MA,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,J
+11,NoMod,MA,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,J
+11,NoMod,MA,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,K
+11,NoMod,MA,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,K
+11,NoMod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,L
+11,NoMod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,L
+11,NoMod,MA,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,M
+11,NoMod,MA,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,M
+11,NoMod,MA,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,N
+11,NoMod,MA,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,N
+11,NoMod,MA,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,O
+11,NoMod,MA,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,O
+11,NoMod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,P
+11,NoMod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,P
+12,NoMod,MF,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,A
+12,NoMod,MF,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,A
+12,NoMod,MF,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,B
+12,NoMod,MF,know,Sam knows,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,B
+12,NoMod,MF,know,Sam knows,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,C
+12,NoMod,MF,know,Sam knows,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,C
+12,NoMod,MF,know,Sam knows,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,D
+12,NoMod,MF,know,Sam knows,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,D
+12,NoMod,MF,know,Sam knows,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,E
+12,NoMod,MF,know,Sam knows,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,E
+12,NoMod,MF,know,Sam knows,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,F
+12,NoMod,MF,know,Sam knows,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,F
+12,NoMod,MF,know,Sam knows,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,G
+12,NoMod,MF,know,Sam knows,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,G
+12,NoMod,MF,know,Sam knows,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,H
+12,NoMod,MF,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,H
+12,NoMod,MF,know,Sam knows,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,I
+12,NoMod,MF,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,I
+12,NoMod,MF,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,J
+12,NoMod,MF,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,J
+12,NoMod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,K
+12,NoMod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,K
+12,NoMod,MF,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,L
+12,NoMod,MF,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,L
+12,NoMod,MF,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,M
+12,NoMod,MF,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,M
+12,NoMod,MF,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,N
+12,NoMod,MF,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,N
+12,NoMod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,O
+12,NoMod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,O
+12,NoMod,MF,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,P
+12,NoMod,MF,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,P
+13,NoMod,MO,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,A
+13,NoMod,MO,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,A
+13,NoMod,MO,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,B
+13,NoMod,MO,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,B
+13,NoMod,MO,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,C
+13,NoMod,MO,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,C
+13,NoMod,MO,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,D
+13,NoMod,MO,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,D
+13,NoMod,MO,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,E
+13,NoMod,MO,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,E
+13,NoMod,MO,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,F
+13,NoMod,MO,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,F
+13,NoMod,MO,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,G
+13,NoMod,MO,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,G
+13,NoMod,MO,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,H
+13,NoMod,MO,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,H
+13,NoMod,MO,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,I
+13,NoMod,MO,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,I
+13,NoMod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,J
+13,NoMod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,J
+13,NoMod,MO,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,K
+13,NoMod,MO,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,K
+13,NoMod,MO,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,L
+13,NoMod,MO,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,L
+13,NoMod,MO,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,M
+13,NoMod,MO,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,M
+13,NoMod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,N
+13,NoMod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,N
+13,NoMod,MO,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,O
+13,NoMod,MO,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,O
+13,NoMod,MO,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,P
+13,NoMod,MO,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,P
+14,NoMod,MS,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,A
+14,NoMod,MS,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,A
+14,NoMod,MS,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,B
+14,NoMod,MS,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,B
+14,NoMod,MS,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,C
+14,NoMod,MS,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,C
+14,NoMod,MS,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,D
+14,NoMod,MS,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,D
+14,NoMod,MS,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,E
+14,NoMod,MS,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,E
+14,NoMod,MS,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,F
+14,NoMod,MS,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,F
+14,NoMod,MS,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,G
+14,NoMod,MS,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,G
+14,NoMod,MS,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,H
+14,NoMod,MS,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,H
+14,NoMod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,I
+14,NoMod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,I
+14,NoMod,MS,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,J
+14,NoMod,MS,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,J
+14,NoMod,MS,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,K
+14,NoMod,MS,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,K
+14,NoMod,MS,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,L
+14,NoMod,MS,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,L
+14,NoMod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,M
+14,NoMod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,M
+14,NoMod,MS,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,N
+14,NoMod,MS,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,N
+14,NoMod,MS,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,O
+14,NoMod,MS,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,O
+14,NoMod,MS,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,P
+14,NoMod,MS,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,P
+15,NoMod,MA,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,A
+15,NoMod,MA,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,A
+15,NoMod,MA,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,B
+15,NoMod,MA,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,B
+15,NoMod,MA,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,C
+15,NoMod,MA,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,C
+15,NoMod,MA,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,D
+15,NoMod,MA,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,D
+15,NoMod,MA,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,E
+15,NoMod,MA,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,E
+15,NoMod,MA,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,F
+15,NoMod,MA,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,F
+15,NoMod,MA,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,G
+15,NoMod,MA,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,G
+15,NoMod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,H
+15,NoMod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,H
+15,NoMod,MA,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,I
+15,NoMod,MA,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,I
+15,NoMod,MA,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,J
+15,NoMod,MA,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,J
+15,NoMod,MA,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,K
+15,NoMod,MA,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,K
+15,NoMod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,L
+15,NoMod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,L
+15,NoMod,MA,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,M
+15,NoMod,MA,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,M
+15,NoMod,MA,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,N
+15,NoMod,MA,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,N
+15,NoMod,MA,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,O
+15,NoMod,MA,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,O
+15,NoMod,MA,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,P
+15,NoMod,MA,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,P
+16,NoMod,MF,say,Sam said,four1.png,F,A and F,"A, B, D, and F",E,ho can play a four,ho has a four to play,A
+16,NoMod,MF,say,Sam said,four2.png,E,B and E,"B, D, E, and F",C,ho can play a four,ho has a four to play,A
+16,NoMod,MF,say,Sam said,red1.png,A,A and B,"A, B, D, and F",C,ho can play a red card,ho has a red card to play,B
+16,NoMod,MF,say,Sam said,red2.png,F,D and F,"B, C, D, and F",A,ho can play a red card,ho has a red card to play,B
+16,NoMod,MF,say,Sam said,black1.png,D,B and D,"A, B, D, and F",C,ho can play a black card,ho has a black card to play,C
+16,NoMod,MF,say,Sam said,black2.png,B,B and C,"B, C, D, and F",E,ho can play a black card,ho has a black card to play,C
+16,NoMod,MF,say,Sam said,spade1.png,C,B and C,"B, C, E, and F",A,ho can play a spade,ho has a spade to play,D
+16,NoMod,MF,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,D
+16,NoMod,MF,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,E
+16,NoMod,MF,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,E
+16,NoMod,MF,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,F
+16,NoMod,MF,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,F
+16,NoMod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,G
+16,NoMod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,G
+16,NoMod,MF,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,H
+16,NoMod,MF,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,H
+16,NoMod,MF,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,I
+16,NoMod,MF,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,I
+16,NoMod,MF,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,J
+16,NoMod,MF,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,J
+16,NoMod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,K
+16,NoMod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,K
+16,NoMod,MF,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,L
+16,NoMod,MF,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,L
+16,NoMod,MF,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,M
+16,NoMod,MF,say,Sam said,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,M
+16,NoMod,MF,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,N
+16,NoMod,MF,say,Sam said,ten2.png,F,A and F,"A, B, E, and F",C,ho can play a ten,ho has a ten to play,N
+16,NoMod,MF,say,Sam said,eight1.png,D,B and D,"B, C, D, and E",A,ho can play a eight,ho has an eight to play,O
+16,NoMod,MF,say,Sam said,eight2.png,B,A and B,"A, B, D, and E",F,ho can play a eight,ho has an eight to play,O
+16,NoMod,MF,say,Sam said,six1.png,A,A and B,"A, B, C, and F",D,ho can play a six,ho has a six to play,P
+16,NoMod,MF,say,Sam said,six2.png,D,D and E,"B, D, E, and F",A,ho can play a six,ho has a six to play,P
