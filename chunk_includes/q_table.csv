@@ -9,16 +9,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 1,Mod,MO,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,D
 1,Mod,MO,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,E
 1,Mod,MO,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,E
-1,Mod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,F
-1,Mod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,F
+1,Mod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,F
+1,Mod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,F
 1,Mod,MO,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,G
 1,Mod,MO,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,G
 1,Mod,MO,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,H
 1,Mod,MO,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,H
 1,Mod,MO,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,I
 1,Mod,MO,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,I
-1,Mod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,J
-1,Mod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,J
+1,Mod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,J
+1,Mod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,J
 1,Mod,MO,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,K
 1,Mod,MO,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,K
 1,Mod,MO,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,L
@@ -39,16 +39,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 2,Mod,MS,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,C
 2,Mod,MS,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,D
 2,Mod,MS,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,D
-2,Mod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,E
-2,Mod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,E
+2,Mod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,E
+2,Mod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,E
 2,Mod,MS,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,F
 2,Mod,MS,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,F
 2,Mod,MS,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,G
 2,Mod,MS,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,G
 2,Mod,MS,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,H
 2,Mod,MS,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,H
-2,Mod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,I
-2,Mod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,I
+2,Mod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,I
+2,Mod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,I
 2,Mod,MS,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,J
 2,Mod,MS,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,J
 2,Mod,MS,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,K
@@ -69,16 +69,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 3,Mod,MA,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,B
 3,Mod,MA,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,C
 3,Mod,MA,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,C
-3,Mod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,D
-3,Mod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,D
+3,Mod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,D
+3,Mod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,D
 3,Mod,MA,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,E
 3,Mod,MA,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,E
 3,Mod,MA,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,F
 3,Mod,MA,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,F
 3,Mod,MA,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,G
 3,Mod,MA,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,G
-3,Mod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,H
-3,Mod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,H
+3,Mod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,H
+3,Mod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,H
 3,Mod,MA,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,I
 3,Mod,MA,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,I
 3,Mod,MA,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,J
@@ -99,16 +99,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 4,Mod,MF,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,A
 4,Mod,MF,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,B
 4,Mod,MF,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,B
-4,Mod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,C
-4,Mod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,C
+4,Mod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,C
+4,Mod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,C
 4,Mod,MF,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,D
 4,Mod,MF,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,D
 4,Mod,MF,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,E
 4,Mod,MF,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,E
 4,Mod,MF,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,F
 4,Mod,MF,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,F
-4,Mod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,G
-4,Mod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,G
+4,Mod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,G
+4,Mod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,G
 4,Mod,MF,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,H
 4,Mod,MF,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,H
 4,Mod,MF,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,I
@@ -129,16 +129,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 4,Mod,MF,know,Sam knows,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,P
 5,Mod,MO,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,A
 5,Mod,MO,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,A
-5,Mod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,B
-5,Mod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,B
+5,Mod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,B
+5,Mod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,B
 5,Mod,MO,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,C
 5,Mod,MO,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,C
 5,Mod,MO,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,D
 5,Mod,MO,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,D
 5,Mod,MO,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,E
 5,Mod,MO,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,E
-5,Mod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,F
-5,Mod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,F
+5,Mod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,F
+5,Mod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,F
 5,Mod,MO,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,G
 5,Mod,MO,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,G
 5,Mod,MO,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,H
@@ -159,16 +159,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 5,Mod,MO,say,Sam said,spade2.png,E,B and E,"A, B, C, and E",D,ho can play a spade,ho has a spade to play,O
 5,Mod,MO,say,Sam said,club1.png,A,A and C,"A, C, D, and F",B,ho can play a club,ho has a club to play,P
 5,Mod,MO,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,P
-6,Mod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,A
-6,Mod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,A
+6,Mod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,A
+6,Mod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,A
 6,Mod,MS,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,B
 6,Mod,MS,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,B
 6,Mod,MS,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,C
 6,Mod,MS,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,C
 6,Mod,MS,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,D
 6,Mod,MS,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,D
-6,Mod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,E
-6,Mod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,E
+6,Mod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,E
+6,Mod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,E
 6,Mod,MS,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,F
 6,Mod,MS,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,F
 6,Mod,MS,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,G
@@ -197,8 +197,8 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 7,Mod,MA,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,B
 7,Mod,MA,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,C
 7,Mod,MA,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,C
-7,Mod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,D
-7,Mod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,D
+7,Mod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,D
+7,Mod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,D
 7,Mod,MA,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,E
 7,Mod,MA,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,E
 7,Mod,MA,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,F
@@ -221,14 +221,14 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 7,Mod,MA,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,N
 7,Mod,MA,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,O
 7,Mod,MA,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,O
-7,Mod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,P
-7,Mod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,P
+7,Mod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,P
+7,Mod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,P
 8,Mod,MF,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,A
 8,Mod,MF,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,A
 8,Mod,MF,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,B
 8,Mod,MF,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,B
-8,Mod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,C
-8,Mod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,C
+8,Mod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,C
+8,Mod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,C
 8,Mod,MF,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,D
 8,Mod,MF,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,D
 8,Mod,MF,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,E
@@ -251,14 +251,14 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 8,Mod,MF,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,M
 8,Mod,MF,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,N
 8,Mod,MF,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,N
-8,Mod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,O
-8,Mod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,O
+8,Mod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,O
+8,Mod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,O
 8,Mod,MF,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,P
 8,Mod,MF,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,P
 9,NoMod,MO,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,A
 9,NoMod,MO,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,A
-9,NoMod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,B
-9,NoMod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,B
+9,NoMod,MO,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,B
+9,NoMod,MO,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,B
 9,NoMod,MO,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,C
 9,NoMod,MO,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,C
 9,NoMod,MO,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,D
@@ -281,14 +281,14 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 9,NoMod,MO,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,L
 9,NoMod,MO,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,M
 9,NoMod,MO,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,M
-9,NoMod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,N
-9,NoMod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,N
+9,NoMod,MO,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,N
+9,NoMod,MO,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,N
 9,NoMod,MO,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,O
 9,NoMod,MO,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,O
 9,NoMod,MO,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,P
 9,NoMod,MO,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,P
-10,NoMod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,A
-10,NoMod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,A
+10,NoMod,MS,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,A
+10,NoMod,MS,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,A
 10,NoMod,MS,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,B
 10,NoMod,MS,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,B
 10,NoMod,MS,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,C
@@ -311,8 +311,8 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 10,NoMod,MS,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,K
 10,NoMod,MS,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,L
 10,NoMod,MS,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,L
-10,NoMod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,M
-10,NoMod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,M
+10,NoMod,MS,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,M
+10,NoMod,MS,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,M
 10,NoMod,MS,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,N
 10,NoMod,MS,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,N
 10,NoMod,MS,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,O
@@ -341,16 +341,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 11,NoMod,MA,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,J
 11,NoMod,MA,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,K
 11,NoMod,MA,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,K
-11,NoMod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,L
-11,NoMod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,L
+11,NoMod,MA,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,L
+11,NoMod,MA,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,L
 11,NoMod,MA,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,M
 11,NoMod,MA,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,M
 11,NoMod,MA,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,N
 11,NoMod,MA,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,N
 11,NoMod,MA,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,O
 11,NoMod,MA,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,O
-11,NoMod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,P
-11,NoMod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,P
+11,NoMod,MA,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,P
+11,NoMod,MA,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,P
 12,NoMod,MF,know,Sam knows,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,A
 12,NoMod,MF,know,Sam knows,ace2.png,E,C and E,"A, B, C, and E",D,ho can play an ace,ho has an ace to play,A
 12,NoMod,MF,know,Sam knows,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,B
@@ -371,16 +371,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 12,NoMod,MF,know,Sam knows,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,I
 12,NoMod,MF,know,Sam knows,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,J
 12,NoMod,MF,know,Sam knows,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,J
-12,NoMod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,K
-12,NoMod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,K
+12,NoMod,MF,know,Sam knows,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,K
+12,NoMod,MF,know,Sam knows,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,K
 12,NoMod,MF,know,Sam knows,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,L
 12,NoMod,MF,know,Sam knows,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,L
 12,NoMod,MF,know,Sam knows,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,M
 12,NoMod,MF,know,Sam knows,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,M
 12,NoMod,MF,know,Sam knows,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,N
 12,NoMod,MF,know,Sam knows,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,N
-12,NoMod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,O
-12,NoMod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,O
+12,NoMod,MF,know,Sam knows,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,O
+12,NoMod,MF,know,Sam knows,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,O
 12,NoMod,MF,know,Sam knows,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,P
 12,NoMod,MF,know,Sam knows,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,P
 13,NoMod,MO,say,Sam said,ten1.png,C,C and D,"B, C, D, and F",E,ho can play a ten,ho has a ten to play,A
@@ -401,16 +401,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 13,NoMod,MO,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,H
 13,NoMod,MO,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,I
 13,NoMod,MO,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,I
-13,NoMod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,J
-13,NoMod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,J
+13,NoMod,MO,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,J
+13,NoMod,MO,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,J
 13,NoMod,MO,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,K
 13,NoMod,MO,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,K
 13,NoMod,MO,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,L
 13,NoMod,MO,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,L
 13,NoMod,MO,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,M
 13,NoMod,MO,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,M
-13,NoMod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,N
-13,NoMod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,N
+13,NoMod,MO,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,N
+13,NoMod,MO,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,N
 13,NoMod,MO,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,O
 13,NoMod,MO,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,O
 13,NoMod,MO,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,P
@@ -431,16 +431,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 14,NoMod,MS,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,G
 14,NoMod,MS,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,H
 14,NoMod,MS,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,H
-14,NoMod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,I
-14,NoMod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,I
+14,NoMod,MS,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,I
+14,NoMod,MS,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,I
 14,NoMod,MS,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,J
 14,NoMod,MS,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,J
 14,NoMod,MS,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,K
 14,NoMod,MS,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,K
 14,NoMod,MS,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,L
 14,NoMod,MS,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,L
-14,NoMod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,M
-14,NoMod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,M
+14,NoMod,MS,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,M
+14,NoMod,MS,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,M
 14,NoMod,MS,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,N
 14,NoMod,MS,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,N
 14,NoMod,MS,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,O
@@ -461,16 +461,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 15,NoMod,MA,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,F
 15,NoMod,MA,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,G
 15,NoMod,MA,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,G
-15,NoMod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,H
-15,NoMod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,H
+15,NoMod,MA,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,H
+15,NoMod,MA,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,H
 15,NoMod,MA,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,I
 15,NoMod,MA,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,I
 15,NoMod,MA,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,J
 15,NoMod,MA,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,J
 15,NoMod,MA,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,K
 15,NoMod,MA,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,K
-15,NoMod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,L
-15,NoMod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,L
+15,NoMod,MA,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,L
+15,NoMod,MA,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,L
 15,NoMod,MA,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,M
 15,NoMod,MA,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,M
 15,NoMod,MA,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,N
@@ -491,16 +491,16 @@ QuestType,WhichQuestion,WhichAnswer,verb,Matrix,ImageName,MOAnswer,MSAnswer,MAAn
 16,NoMod,MF,say,Sam said,club2.png,C,B and C,"B, C, D, and E",F,ho can play a club,ho has a club to play,E
 16,NoMod,MF,say,Sam said,diamond1.png,E,D and E,"A, B, D, and E",C,ho can play a diamond,ho has a diamond to play,F
 16,NoMod,MF,say,Sam said,diamond2.png,A,A and B,"A, B, E, and F",C,ho can play a diamond,ho has a diamond to play,F
-16,NoMod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a hear to play,G
-16,NoMod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a hear to play,G
+16,NoMod,MF,say,Sam said,hearts1.png,F,C and F,"A, C, D, and F",B,ho can play a heart,ho has a heart to play,G
+16,NoMod,MF,say,Sam said,hearts2.png,B,B and E,"A, B, C, and E",D,ho can play a heart,ho has a heart to play,G
 16,NoMod,MF,say,Sam said,jack1.png,A,A and B,"A, B, D, and F",E,ho can play a jack,ho has a jack to play,H
 16,NoMod,MF,say,Sam said,jack2.png,A,A and C,"A, C, E, and F",B,ho can play a jack,ho has a jack to play,H
 16,NoMod,MF,say,Sam said,queen1.png,B,B and C,"A, B, C, and E",D,ho can play a queen,ho has a queen to play,I
 16,NoMod,MF,say,Sam said,queen2.png,F,E and F,"B, C, E, and F",A,ho can play a queen,ho has a queen to play,I
 16,NoMod,MF,say,Sam said,king1.png,D,D and E,"A, B, D, and E",C,ho can play a king,ho has a king to play,J
 16,NoMod,MF,say,Sam said,king2.png,C,C and D,"A, C, D, and F",E,ho can play a king,ho has a king to play,J
-16,NoMod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho hasa face card to play,K
-16,NoMod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho hasa face card to play,K
+16,NoMod,MF,say,Sam said,face1.png,C,C and D,"A, C, D, and E",F,ho can play a face card,ho has a face card to play,K
+16,NoMod,MF,say,Sam said,face2.png,B,B and C,"B, C, D, and F",A,ho can play a face card,ho has a face card to play,K
 16,NoMod,MF,say,Sam said,number1.png,F,C and F,"C, D, E, and F",A,ho can play a number card,ho has a number card to play,L
 16,NoMod,MF,say,Sam said,number2.png,A,A and B,"A, B, D, and F",C,ho can play a number card,ho has a number card to play,L
 16,NoMod,MF,say,Sam said,ace1.png,B,B and C,"B, C, E, and F",D,ho can play an ace,ho has an ace to play,M
