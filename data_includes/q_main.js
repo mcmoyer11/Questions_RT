@@ -1,6 +1,6 @@
 PennController.ResetPrefix(null); // Initiates PennController
 
-// CHEMLA & BOTT TRIALS
+// QUESTIONS TRIALS
 
 Sequence("intro","consent", "demo","instructions", "familiarize1", "familiarize2","familiarize3","familiarize4","instructions1", "trainF","trainT","trainthink1","trainthink2", "end_train", randomize("trial"), "send", "final")
 
@@ -28,50 +28,68 @@ newTrial("consent",
         .log()
         .print()
     ,
+    newTextInput("ID")
+        .log()
+        .before( newText("before", "<p>Please enter your unique participant ID</p>") )
+        .center()
+        .print()
+    ,
+    newText("warning", "Please enter your ID first")
+        .color("red")
+        .bold()
+    ,
     newButton("consent button", "By clicking this button I indicate my consent")
         .center()
         .print()
-        .wait()
+        .wait(  // Make sure the TextInput has been filled
+            getTextInput("ID")
+                .testNot.text("")
+                .failure( getText("warning").print() )
+        )
+    ,   // Create a Var element before going to the next screen
+    newVar("ID")
+        .global()          // Make it globally accessible
+        .set( getTextInput("ID") )
 )
+.log( "ID" , getVar("ID") )
 
 newTrial("demo",
     defaultText
         .center()
         .print()
     ,
-    newText("<p>Please enter your Participant ID.</p>")
-    ,
-    newTextInput("inputID")
-        .print()
-    ,
-    newText("<p>What is your native language?</p>")
-    ,
     newTextInput("NativeLang")
+        .log()
+        .before( newText("before", "Please enter your native language.") )
+        .center()
         .print()
-    ,    
-    newText("<p>Do you speak any other languages?</p>")
+    ,
+    newText("warning", "Please enter your native language.")
+        .color("red")
+        .bold()
     ,
     newTextInput("OtherLangs")
+        .before( newText("before", "Do you speak any other languages?") )
+        .center()
         .print()
     ,
     newButton("Start")
         .center()
         .print()
-        .wait()
-    ,
-    newVar("ID")
-        .global()
-        .set( getTextInput("inputID") )
+        .wait(  // Make sure the TextInput has been filled
+            getTextInput("NativeLang")
+                .testNot.text("")
+                .failure( getText("warning").print() )
+        )
     ,
     newVar("NativeLang")
         .global()
-        .set( getTextInput("NativeLang") )
+        .set( getTextInput("NativeLangs") )
     ,
     newVar("OtherLangs")
         .global()
-        .set( getTextInput("NativeLang") )
+        .set( getTextInput("OtherLangs") )
 )
-.log( "ID" , getVar("ID") )
 .log( "NativeLang" , getVar("NativeLang") )
 .log( "OtherLangs" , getVar("OtherLangs") )
 
@@ -214,7 +232,11 @@ newTrial( "trainF",
             .start()
             .wait()
         ,
-        newText("<p>On each trial, you will see a picture that shows what cards everyone has, followed by a dialogue between Melissa and Dana.</p>")
+        newText("<p>On each trial, you will see a picture that shows what cards everyone has.</p>")
+            .center()
+            .print()
+        ,
+        newText("<p>A question will be asked, Dana will answer, and Melissa will say something about what Dana answered.</p>")
             .center()
             .print()
         ,
@@ -236,6 +258,10 @@ newTrial( "trainF",
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with Melissa, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since Melissa's statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree.<p>")
             .center()
             .print()
         ,
@@ -280,6 +306,10 @@ newTrial( "trainT",
             .center()
             .print()
         ,
+        newText("<p>Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree.<p>")
+            .center()
+            .print()
+        ,
         newSelector()
             .add( newText("Agree"), newText("Disagree"))
             .center()
@@ -318,6 +348,10 @@ newTrial( "trainthink1",
             .print()
         ,
         newText("<p> If you <strong>Agree</strong> with the sentence, press <strong>F</strong>. If you <strong>Disagree</strong>, then press <strong>J</strong><p>")
+            .center()
+            .print()
+        ,
+        newText("<p>Since this statement is <strong>correct</strong>, you should press <strong>F</strong> on the keyboard to agree.<p>")
             .center()
             .print()
         ,
@@ -362,6 +396,10 @@ newTrial( "trainthink2",
             .center()
             .print()
         ,
+        newText("<p>Since this statement is <strong>incorrect</strong>, you should press <strong>J</strong> on the keyboard to disagree.<p>")
+            .center()
+            .print()
+        ,
         newSelector()
             .add( newText("Agree"), newText("Disagree"))
             .center()
@@ -398,18 +436,23 @@ Template( "q_table.csv", row =>
         ,
         newImage("ImageName",row.ImageName)
             .size(500,300)
+            .center()
             .print()
         ,
         newText( `"W${row[row.WhichQuestion+'Question']}?"` )
+            .center()
             .print()
         ,
         newText(`Dana: "${row[row.WhichAnswer+'Answer']}"`)
+            .center()
             .print()
         ,
         newText( `Melissa: "${row.Matrix} w${row[row.WhichQuestion+'Question']}."` )
+            .center()
             .print()
         ,
         newText("<p> Press <strong>F</strong> to <strong>Agree</strong> or <strong>J</strong> to <strong>Disagree</strong><p>")
+            .center()
             .print()
         ,
         newSelector()
