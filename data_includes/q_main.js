@@ -192,7 +192,9 @@ newTrial( "instructions1",
     ,
     newText("<p>Some friends have gotten together to play a game of cards.</p>")
     ,
-    newText("<p>Dana has never played cards before, so Melissa will ask her questions about the other players' cards to make sure she understands.</p>")
+    newText("<p>Dana and Melissa have never played cards before, so your job is to help them learn about the cards.</p>")
+    ,
+    newText("<p>We will ask Dana a question, she will give an answer, and then Melissa will say something about what Dana said.</p>")
     ,
     newText("<p>Your task is to say whether you agree or disagree with what Melissa says about Dana.</p>")
     ,
@@ -221,7 +223,7 @@ newTrial( "trainF",
             .center()
             .print()
         ,
-        newText( `Melissa: "Who has a 4?"` )
+        newText( `"Who has a 4?"` )
             .center()
             .print()
         ,
@@ -262,7 +264,7 @@ newTrial( "trainT",
             .size(500,300)
             .print()
         ,
-        newText( `Melissa: "Who has a Jack?"` )
+        newText( `"Who has a Jack?"` )
             .center()
             .print()
         ,
@@ -303,7 +305,7 @@ newTrial( "trainthink1",
             .size(500,300)
             .print()
         ,
-        newText( `Melissa: "Who has a five?"` )
+        newText( `"Who has a five?"` )
             .center()
             .print()
         ,
@@ -344,7 +346,7 @@ newTrial( "trainthink2",
             .size(500,300)
             .print()
         ,
-        newText( `Melissa: "Who has a two?"` )
+        newText( `"Who has a two?"` )
             .center()
             .print()
         ,
@@ -398,7 +400,7 @@ Template( "q_table.csv", row =>
             .size(500,300)
             .print()
         ,
-        newText( `Melissa: "W${row[row.WhichQuestion+'Question']}?"` )
+        newText( `"W${row[row.WhichQuestion+'Question']}?"` )
             .print()
         ,
         newText(`Dana: "${row[row.WhichAnswer+'Answer']}"`)
