@@ -1,32 +1,15 @@
 PennController.ResetPrefix(null); // Initiates PennController
-
+PennController.DebugOff()
 // QUESTIONS TRIALS
 
-Sequence("intro","consent", "demo","instructions", "familiarize1", "familiarize2","familiarize3","familiarize4","instructions1", "trainF","trainT","trainthink1","trainthink2", "end_train", randomize("trial"), "send", "final")
+Sequence("intro","familiarize1", "familiarize2","familiarize3","familiarize4","instructions1", "instructions2", "trainF","trainT","trainthink1","trainthink2", "end_train", randomize("trial"), "send", "end")
 
 newTrial("intro",
     defaultText
         .center()
         .print()
     ,
-    newText("<p>Welcome to the Experiment!</p>")
-    ,
-    newText("<p>This experiment requires the use of a keyboard to register responses.</p>") 
-    ,
-    newText("<p>To participate in this experiment you MUST be on a laptop, desktop computer, or tablet device with a detachable keyboard.</p>")
-    ,
-    newText("<p>Do not use a cell phone, or tablet without detachable keyboard.</p>")
-    ,
-    newButton("Proceed to the Consent Form")
-        .center()
-        .print()
-        .wait()
-)
-
-newTrial("consent",
-    newHtml("consent.html")
-        .log()
-        .print()
+    newText("<p>Welcome to the Third Part of the Experiment!</p>")
     ,
     newTextInput("ID")
         .log()
@@ -38,7 +21,7 @@ newTrial("consent",
         .color("red")
         .bold()
     ,
-    newButton("consent button", "By clicking this button I indicate my consent")
+    newButton("continue button", "Click here to continue.")
         .center()
         .print()
         .wait(  // Make sure the TextInput has been filled
@@ -53,74 +36,7 @@ newTrial("consent",
 )
 .log( "ID" , getVar("ID") )
 
-newTrial("demo",
-    defaultText
-        .center()
-        .print()
-    ,
-    newTextInput("NativeLang")
-        .log()
-        .before( newText("before", "Please enter your native language.") )
-        .center()
-        .print()
-    ,
-    newText("warning", "Please enter your native language.")
-        .color("red")
-        .bold()
-    ,
-    newTextInput("OtherLangs")
-        .before( newText("before", "Do you speak any other languages?") )
-        .center()
-        .print()
-    ,
-    newButton("Start")
-        .center()
-        .print()
-        .wait(  // Make sure the TextInput has been filled
-            getTextInput("NativeLang")
-                .testNot.text("")
-                .failure( getText("warning").print() )
-        )
-    ,
-    newVar("NativeLang")
-        .global()
-        .set( getTextInput("NativeLangs") )
-    ,
-    newVar("OtherLangs")
-        .global()
-        .set( getTextInput("OtherLangs") )
-)
-.log( "NativeLang" , getVar("NativeLang") )
-.log( "OtherLangs" , getVar("OtherLangs") )
 
-// What is in Header happens at the beginning of every single trial
-Header(
-    // We will use this global Var element later to store the participant's name
-    newVar("ID")
-        .global()
-    ,
-    // Delay of 250ms before every trial
-    newTimer(250)
-        .start()
-        .wait()
-)
-.log( "ID" , getVar("ID") )
-.log( "NativeLang" , getVar("NativeLang") )
-.log( "OtherLangs" , getVar("OtherLangs") )
-// This log command adds a column reporting the participant's name to every line saved to the results
-
-newTrial("instructions",
-    defaultText
-        .center()
-        .print()
-    ,
-    newText("<p>In this experiment, we will ask you to decide whether you agree or disagree with a statement.</p>")
-    ,
-    newButton("Continue")
-        .center()
-        .print()
-        .wait()
-)
 
 newTrial("familiarize1",
     defaultText
@@ -206,15 +122,41 @@ newTrial( "instructions1",
         .start()
         .wait()
     ,
-    newText("<p>Now that you are familiar with the deck of cards, we can proceed to the experiment.</p>")
+    newText("<p>Now that you are familiar with the deck of cards, we can proceed.</p>")
+    ,
+    newButton("Continue")
+        .center()
+        .print()
+        .wait()
+    ,
+    newTimer(500)
+        .start()
+        .wait()
+
+)
+
+newTrial( "instructions2",
+    defaultText
+        .center()
+        .print()
+    , 
+    newTimer(500)
+        .start()
+        .wait()
+    ,
+    newText("<p><strong>INSTRUCTIONS.</strong></p>")
+        .center()
+        .print()
     ,
     newText("<p>Some friends have gotten together to play a game of cards.</p>")
     ,
-    newText("<p>Dana and Melissa have never played cards before, so your job is to help them learn about the cards.</p>")
+    newText("<p>Dana and Melissa have never played cards before.</p>")
     ,
-    newText("<p>We will ask Dana a question, she will give an answer, and then Melissa will say something about what Dana said.</p>")
+    newText("<p>We will ask Dana a question, and she will give an answer.</p>")
     ,
-    newText("<p>Your task is to say whether you agree or disagree with what Melissa says about Dana.</p>")
+    newText("<p>Then Melissa will say something about what Dana said.</p>")
+    ,
+    newText("<p><strong>Your task is to say whether you agree or disagree with what Melissa says.</strong></p>")
     ,
     newButton("Continue")
         .center()
@@ -232,11 +174,11 @@ newTrial( "trainF",
             .start()
             .wait()
         ,
-        newText("<p>On each trial, you will see a picture that shows what cards everyone has.</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
-        newText("<p>A question will be asked, Dana will answer, and Melissa will say something about what Dana answered.</p>")
+        newText("<p><strong>On each trial, you will see a picture that shows what cards everyone has:</strong></p>")
             .center()
             .print()
         ,
@@ -245,11 +187,23 @@ newTrial( "trainF",
             .center()
             .print()
         ,
+        newText("<p><strong>We will ask Dana a question:</strong></p>")
+            .center()
+            .print()
+        ,
         newText( `"Who has a 4?"` )
             .center()
             .print()
         ,
+        newText("<p><strong>She will give an answer:</strong></p>")
+            .center()
+            .print()
+        ,
         newText(`Dana: "F."`)
+            .center()
+            .print()
+        ,
+        newText("<p><strong>And Melissa will say something about what Dana said:</strong></p>")
             .center()
             .print()
         ,
@@ -282,7 +236,7 @@ newTrial( "trainT",
             .start()
             .wait()
         ,
-        newText("<p>Practice.</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -327,7 +281,7 @@ newTrial( "trainthink1",
             .start()
             .wait()
         ,
-        newText("<p>Practice.</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -372,7 +326,7 @@ newTrial( "trainthink2",
             .start()
             .wait()
         ,
-        newText("<p>Practice.</p>")
+        newText("<p><strong>PRACTICE.</strong></p>")
             .center()
             .print()
         ,
@@ -466,6 +420,7 @@ Template( "q_table.csv", row =>
             .wait()
     )
     .log( "ID" , getVar("ID") )
+    .log( "Study" , row.Study )
     .log( "QuestType" , row.QuestType )
     .log( "WhichQuestion" , row.WhichQuestion )
     .log( "WhichAnswer" , row.WhichAnswer )
