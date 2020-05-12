@@ -370,7 +370,7 @@ newTrial( "trainthink2",
             .size(500,300)
             .print()
         ,
-        newText( `Dealer: "Who has a two?"` )
+        newText( `"We're looking for twos. Who has a two?"` )
             .center()
             .print()
         ,
@@ -418,7 +418,7 @@ newTrial("end_train",
 )
 
 // BEGIN TEST TRIALS
-Template( "q_table.csv", row =>
+Template( "q_table_give.csv", row =>
     newTrial( "trial",
         newTimer(500)
             .start()
@@ -429,7 +429,7 @@ Template( "q_table.csv", row =>
             .center()
             .print()
         ,
-        newText( `Dealer: "W${row[row.WhichQuestion+'Question']}?"` )
+        newText( `"W${row[row.WhichQuestion+'Question']}?"` )
             .center()
             .print()
         ,
