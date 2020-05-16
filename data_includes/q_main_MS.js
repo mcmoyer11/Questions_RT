@@ -148,17 +148,9 @@ newTrial( "instructions2",
     ,
     newText("<p>Some friends have gotten together to play a game of cards.</p>")
     ,
-    newText("<p>The goal of the game is to collect a sequence of cards.</p>")
+    newText("<p>The goal of the game is to play a card that matches either the number, the color, or the suit of the current card.</p>")
     ,
-    newText("<p>The goal of the game is to collect a diverse set of cards.</p>")
-    ,
-    newText("<p>However, if a player has all four suits of a card, they get an extra point.</p>")
-    ,
-    newText("<p>On each turn, a player can ask another player for a particular card they're looking for.</p>")
-    ,
-    newText("<p>If a player finds the card they're looking for, they can ask another player for that card.</p>")
-    ,
-    newText("<p>However, if they do not find the right kind of card, they loose a point.</p>")
+    newText("<p>Players go one at a time.</p>")
     ,
     newButton("Continue")
         .center()
@@ -227,7 +219,7 @@ newTrial( "trainF",
             .center()
             .print()
         ,
-        newText( `"We're looking for a four. Who has a four?"` )
+        newText( `"Let's say you play a four. Who has a four to play?"` )
             .center()
             .print()
         ,
@@ -280,7 +272,7 @@ newTrial( "trainT",
             .size(500,300)
             .print()
         ,
-        newText( `"We're looking for Jacks. Who has a Jack?"` )
+        newText( `"Let's say you play a Jack. Who has a Jack to play?"` )
             .center()
             .print()
         ,
@@ -325,7 +317,7 @@ newTrial( "trainthink1",
             .size(500,300)
             .print()
         ,
-        newText( `"We're looking for fives. Who has a five?"` )
+        newText( `"Let's say you play a five. Who has a five to play?"` )
             .center()
             .print()
         ,
@@ -370,7 +362,7 @@ newTrial( "trainthink2",
             .size(500,300)
             .print()
         ,
-        newText( `"We're looking for twos. Who has a two?"` )
+        newText( `"Let's say you play a two. Who has a two to play?"` )
             .center()
             .print()
         ,
